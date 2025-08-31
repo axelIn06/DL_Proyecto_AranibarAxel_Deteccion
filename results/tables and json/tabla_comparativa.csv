@@ -1,0 +1,4 @@
+,mAP@0.5,mAP@[.5:.95],Precision,Recall,Velocidad_Inferencia,Descripción
+YOLOv8n,0.6622,0.4912,0.6565,0.6045,15.5630,"Modelo nano - más rápido, menor precisión"
+YOLOv8s,0.7949,0.6171,0.8197,0.6939,18.0556,Modelo small - equilibrio velocidad/precisión
+YOLOv8m,0.8234,0.6558,0.8019,0.7392,15.2534,"Modelo medium - mayor precisión, más lento"
